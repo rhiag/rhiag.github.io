@@ -8,15 +8,15 @@ share-img: /assets/img/thumb.png
 tags: [data visualization]
 ---
 
-###This is a heading
+### This is a heading
 
-##this is another one
+## this is another one
 
-#this is yet another one
+# this is yet another one
 
 - This is 
--a bullet
--list
+- a bullet
+- list
 
 ---
 ---
