@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Tag line
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rhia George. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love a great story
+- I love my coffee
 
 What else do you need?
 
