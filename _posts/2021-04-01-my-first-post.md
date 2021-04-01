@@ -8,13 +8,20 @@ share-img: /assets/img/thumb.png
 tags: [data visualization]
 ---
 
-The blog post uses markdown just like google collab
-##This is a heading
-#little smaller
+###This is a heading
+
+##this is another one
+
+#this is yet another one
+
+- This is 
+-a bullet
+-list
+
+---
 ---
 
+[Google](https://google.com)
 
-- Hi
-- Everyone
-- Welcome to
-- python
+
+
