@@ -13,9 +13,8 @@ The blog post uses markdown just like google collab
 #little smaller
 ---
 
-![Coleus](https://www.vpr.org/post/love-your-outdoor-coleus-plants-propagate-them-indoor-living#stream/0)
 
 - Hi
 - Everyone
 - Welcome to
-- Nina's playground
+- python
