@@ -13,12 +13,12 @@ author: Rhia George
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+navbar-links:https://github.com/rhiag/rhiag.github.io/blob/master/_config.yml
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
